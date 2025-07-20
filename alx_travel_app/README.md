@@ -6,21 +6,13 @@ This project includes the implementation of:
 - Django REST Framework serializers for API
 - Management command to seed sample listing data
 
-Run the seeder with:
+## How to Run the Seeder
+
 ```bash
 python manage.py seed
-python
-Copy
-Edit
 
----
-
-Let me know once you've renamed the repo or if you'd prefer Option 2 (create a new repo and push again).
-
-
-
-
-
-
-
-You said:
+Then:
+```bash
+git add README.md
+git commit -m "Fix: Clean README.md"
+git push
